@@ -18,7 +18,7 @@ int main() {
 
 	average = (score1+score2+score3)/(3)
 
-	if (average >= 
+	if (average >= 60) 
 
 
 
